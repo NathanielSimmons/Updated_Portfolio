@@ -55,6 +55,36 @@
           "iconifyClass": "logos-ejs"
         }
       ]
+    },
+    {
+      "id": "R_kgDOJWL0-n",
+      "name": "Conversa",
+      "createdAt": "2023-06-15T10:30:00Z",
+      "url": "https://nate-conversa-app.netlify.app",
+      "description": "A chat application that allows users to interact with eachother. Also a built in AI bot powered by Google Gemini.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        },
+        {
+          "name": "React",
+          "iconifyClass": "logos-react"
+        },
+        {
+          "name": "Node.js",
+          "iconifyClass": "logos-nodejs"
+        },
+        {
+          "name": "MongoDB",
+          "iconifyClass": "logos-mongodb"
+        },
+        {
+          "name": "Socket.IO",
+          "iconifyClass": "logos-socket-io"
+        }
+      ]
     }
   ]
 }

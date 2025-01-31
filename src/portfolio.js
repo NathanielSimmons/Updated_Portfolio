@@ -25,7 +25,7 @@ const greeting = {
   subTitle:
     "I'm Nathaniel Simmons, a Financial Analyst and Software Engineer. I combine data analysis and coding to solve complex problems and drive business success. Welcome to my portfolio!",
   resumeLink:
-    "https://natestoragebucket.s3.us-east-2.amazonaws.com/Nathaniel%2BSimmons%2BResume%2B'24%2B(1)%2B(2).docx",
+    "https://natestoragebucket.s3.us-east-2.amazonaws.com/Nathaniel+Simmons+Resume+'25.docx",
   githubProfile: "https://github.com/NathanielSimmons",
 };
 
@@ -305,7 +305,7 @@ const experience = {
           logo_path: "general_assembly_logo.png",
           duration: "Jun 2022 - Nov 2023",
           location: "New York, NY, USA",
-          description: "Developed financial forecasts and strategies that improved budget accuracy and supported 15% year-over-year revenue growth. Collaborated with cross-functional teams to manage budgets exceeding $5M and created advanced financial models to enhance strategic planning.",
+          description: "Developed financial forecasts and projections that drove a 10% improvement in budget accuracy by leveraging historical data and market trends. Spearheaded the creation of long-term financial strategies, enabling the coding bootcamp to achieve a 15% year-over-year revenue growth while maintaining financial sustainability. Partnered with cross-functional teams, including program managers and instructors, to allocate budgets exceeding $5M, ensuring alignment with organizational goals. Designed and maintained advanced financial models to analyze variables such as student enrollment, program costs, and revenue streams, resulting in more accurate strategic planning. Produced monthly variance analysis and KPI reports, which improved executive decision-making by identifying and addressing performance gaps. ",
           color: "#FF5733"
         },
         {
@@ -315,7 +315,7 @@ const experience = {
           logo_path: "fidelity_logo.png",
           duration: "Jul 2019 - Jun 2020",
           location: "Boston, MA, USA",
-          description: "Produced financial reports and models that optimized a $10M departmental budget. Influenced multi-million-dollar investment decisions and reduced operational expenses by 7% annually through vendor negotiations and cost control strategies.",
+          description: "Delivered high-quality financial reports detailing headcount and budget trends, directly contributing to the optimization of a $10M departmental budget. Built financial models to evaluate the unit economics of startup ventures, influencing executive team decisions on multi-million-dollar investments. Managed the progress of strategic projects, including negotiating cost-effective vendor contracts, reducing operational expenses by 7% annually. Presented burn rate analyses and forecast reports to managing directors monthly, identifying potential cost overruns and achieving a 5% reduction in burn rate across incubators. ",
           color: "#004F92"
         }
       ],
